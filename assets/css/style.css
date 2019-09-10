@@ -1,0 +1,25 @@
+body {
+    background-image: url(../images/beige-tiles.png);
+}
+
+.container {
+    background-color: #85658C;
+    color: white;
+}
+
+#head {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 70px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+}
