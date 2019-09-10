@@ -33,4 +33,8 @@ $(document).ready(function() {
         $(".numguess").text("Number to reach :" + targetNum);
         console.log(targetNum);
     }
+
+
+    crystalsValues();
+    playGame();
 });
