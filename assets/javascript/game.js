@@ -56,7 +56,7 @@ $(document).ready(function () {
             alert("You Win!!!");
             wins++;
             $(".wins").text("Wins: " + wins);
-            $("#crytals").empty();
+            $("#crystals").empty();
             crystalsValues();
             playGame();
             }
@@ -65,7 +65,7 @@ $(document).ready(function () {
             alert("Sorry, you lost :(");
             losses++;
             $(".losses").text("Losses: " + losses);
-            $("#crytals").empty();
+            $("#crystals").empty();
             crystalsValues();
             playGame();
             }
